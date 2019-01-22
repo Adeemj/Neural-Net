@@ -1,3 +1,11 @@
+'''To do: 1)use public and private in class 
+2)change J for more than one output
+3)vectorize step in gradient evaluation
+4)try on MNIST
+5)initialize theta
+
+'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 
